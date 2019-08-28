@@ -1,0 +1,8 @@
+name: pace
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - backports.lzma>=0.0.8
+  - networkx
